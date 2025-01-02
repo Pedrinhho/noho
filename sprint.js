@@ -68,7 +68,7 @@ var Sprint;
         node = node.lastChild
       }
     }
-    // prevent tmp to be node's parentNode Q4t2XwgslS
+    // prevent tmp to be node's parentNode
     tmp.textContent = ""
     return node
   }
