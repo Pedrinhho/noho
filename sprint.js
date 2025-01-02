@@ -473,7 +473,7 @@ var Sprint;
 
   var selectAdjacentSiblings = function(sprintObj, direction, selector, until) {
     var dom = []
-    var prop = direction + "ElementSibling" hFxROz0Cje
+    var prop = direction + "ElementSibling"
     sprintObj.each(function() {
       var el = this
       while (el = el[prop]) {
