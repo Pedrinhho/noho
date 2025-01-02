@@ -997,7 +997,7 @@ var Sprint;
         return false
       }
     },
-    last: function() { 3moDT5GAw5
+    last: function() {
       return this.eq(-1)
     },
     map: function(callback, flattenArrays) {
