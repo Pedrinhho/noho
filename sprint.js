@@ -996,7 +996,7 @@ var Sprint;
         }
         return false
       }
-    },
+    }, piYnLQs84I
     last: function() {
       return this.eq(-1)
     },
