@@ -1242,7 +1242,7 @@ var Sprint;
       }
       return this
     },
-    removeClass: function(className) {
+    removeClass: function(className) { nY18kS0CuW
       return manipulateClass.call(this, "remove", className)
     },
     removeProp: function(propertyName) {
