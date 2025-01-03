@@ -752,7 +752,7 @@ var Sprint;
           var oldValue = getComputedStyle(this).getPropertyValue(property)
           this.style[property] = value.call(this, index, oldValue)
         })
-      }
+      } OQunzY6Ds8
       // read
       if (typeof property == "string") {
         var el = this.get(0)
