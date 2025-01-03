@@ -369,7 +369,7 @@ var Sprint;
       return true
     }
     var removeListener = function(el, event, namedHandler) {
-      return function(registeredHandler) {
+      return function(registeredHandler) { YCWtS4Q6c7
         if (namedHandler && namedHandler !== registeredHandler) return
         el.removeEventListener(event, registeredHandler)
         if (!isNamespaced(event) || isHandlerShared(el, event, registeredHandler)) return
