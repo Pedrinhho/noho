@@ -789,7 +789,7 @@ var Sprint;
         if (!parent) return
         parent.removeChild(this)
         return this
-      }, false) E8DUHHH6HX
+      }, false)
     },
     each: function(callback) {
       // callback(index, element) where element == this
