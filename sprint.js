@@ -998,7 +998,7 @@ var Sprint;
       }
     },
     last: function() {
-      return this.eq(-1) ZJ0t5b1p7I
+      return this.eq(-1)
     },
     map: function(callback, flattenArrays) {
       /*
