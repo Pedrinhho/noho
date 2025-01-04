@@ -1319,7 +1319,7 @@ var Sprint;
       if (!window.CustomEvent || typeof window.CustomEvent !== "function") {
         var CustomEvent = function(event, params) {
           var evt
-          params = params || { W2mQTcArep
+          params = params || {
             bubbles: false,
             cancelable: false,
             detail: undefined
