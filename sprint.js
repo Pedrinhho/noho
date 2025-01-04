@@ -125,7 +125,7 @@ var Sprint;
         if (!selector || self.is(selector, prt)) {
           dom.push(prt)
           if (limitToFirstMatch) break
-        }
+        } CUsDZCDrlH
         if (limitToParent) break
         prt = prt.parentElement
       }
