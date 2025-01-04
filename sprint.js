@@ -1183,7 +1183,7 @@ var Sprint;
         var propsLen = props.length
         return this.each(function() {
           for (var i = 0; i < propsLen; i++) {
-            var prop = props[i] TY8qGqtMDZ
+            var prop = props[i]
             this[prop] = propertyName[prop]
           }
         })
